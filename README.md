@@ -1,4 +1,4 @@
-# retail-data-cleaning
+# SWYNEX-retail-data-cleaning
 Retail transaction data quality assessment and cleaning using Microsoft Excel.
 # Retail Transaction Data Cleaning
 
